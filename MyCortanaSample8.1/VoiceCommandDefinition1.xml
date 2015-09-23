@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.1">
+  <CommandSet xml:lang="en-US">
+    <CommandPrefix>Emam</CommandPrefix>
+    <Example> Emam show one </Example>
+
+    <Command Name="JustOpen">
+      <Example> Emam open </Example>
+      <ListenFor> {text} </ListenFor>
+      <Feedback> Emam is opening... </Feedback>
+      <Navigate/>
+    </Command>
+
+    <Command Name="ShowText">
+      <Example> Emam text hello there </Example>
+      <ListenFor> Text {text} </ListenFor>
+      <Feedback> Emam is Adding your Text... </Feedback>
+      <Navigate Target="TextPage"/>
+    </Command>
+
+    <Command Name="DisplayNumber">
+      <Example> Emam number one </Example>
+      <ListenFor> Number {number} </ListenFor>
+      <Feedback> Emam is Adding your Number... </Feedback>
+      <Navigate Target="NumberPage" />
+    </Command>
+
+    <PhraseList Label="number">
+      <Item> one </Item>
+      <Item> two </Item>
+      <Item> three </Item>
+    </PhraseList>
+
+    <PhraseTopic Label="text" Scenario="Dictation"/> 
+  </CommandSet>
+</VoiceCommands>

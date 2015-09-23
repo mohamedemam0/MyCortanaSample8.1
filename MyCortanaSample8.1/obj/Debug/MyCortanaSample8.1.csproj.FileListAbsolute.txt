@@ -1,0 +1,84 @@
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\App.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\MainPage.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\MyCortanaSample8.1.xr.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\MyCortanaSample8.1.exe
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\MyCortanaSample8.1.pdb
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\resources.pri
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\AppxManifest.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\MyCortanaSample8.1.build.appxrecipe
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\App.g.i.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\App.g.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\MainPage.g.i.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\MainPage.g.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\XamlTypeInfo.g.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\App.xaml
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\App.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\XamlSaveStateFile.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\MainPage.xaml
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\MainPage.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\MyCortanaSample8.1.exe
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\MyCortanaSample8.1.pdb
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\priconfig.xml
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\priconfig.xml.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\layout.resfiles
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\layout.resfiles.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\resources.resfiles
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\resources.resfiles.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\pri.resfiles
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\pri.resfiles.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\qualifiers.txt
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\qualifiers.txt.intermediate
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\ProjectArchitectures.txt
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\NumberPage.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\NumberPage.g.i.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\NumberPage.g.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\NumberPage.xaml
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\NumberPage.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\TextPage.xbf
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\TextPage.g.i.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\TextPage.g.cs
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\TextPage.xaml
+c:\users\mohammed\documents\visual studio 2013\Projects\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\TextPage.xbf
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\App.xbf
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\MainPage.xbf
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\NumberPage.xbf
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\TextPage.xbf
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\MyCortanaSample8.1.xr.xml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\MyCortanaSample8.1.exe
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\MyCortanaSample8.1.pdb
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\resources.pri
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\AppxManifest.xml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\bin\Debug\MyCortanaSample8.1.build.appxrecipe
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\App.g.i.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\App.g.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\MainPage.g.i.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\MainPage.g.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\NumberPage.g.i.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\NumberPage.g.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\TextPage.g.i.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\TextPage.g.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\XamlTypeInfo.g.cs
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\App.xaml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\MainPage.xaml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\NumberPage.xaml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\TextPage.xaml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\App.xbf
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\MainPage.xbf
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\NumberPage.xbf
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\TextPage.xbf
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\XamlSaveStateFile.xml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\MyCortanaSample8.1.exe
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\MyCortanaSample8.1.pdb
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\priconfig.xml
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\priconfig.xml.intermediate
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\layout.resfiles
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\layout.resfiles.intermediate
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\resources.resfiles
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\resources.resfiles.intermediate
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\pri.resfiles
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\pri.resfiles.intermediate
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\qualifiers.txt
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\qualifiers.txt.intermediate
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\STUDIES\Windows 8 Store Apps\CODE SAMPLES\Cortana\MyCortanaSample8.1\MyCortanaSample8.1\MyCortanaSample8.1\obj\Debug\ProjectArchitectures.txt

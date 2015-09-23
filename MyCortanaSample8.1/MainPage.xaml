@@ -1,0 +1,38 @@
+﻿<Page
+    x:Class="MyCortanaSample8._1.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MyCortanaSample8._1"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="229*"/>
+            <RowDefinition Height="31*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Title Panel -->
+        <StackPanel Grid.Row="0" Margin="19,0,0,0">
+            <TextBlock Text="MY Cortana" Style="{ThemeResource TitleTextBlockStyle}" Margin="0,12,0,0"/>
+            <TextBlock Text="Main Page" Margin="0,-6.5,0,26.5" Style="{ThemeResource HeaderTextBlockStyle}" CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Margin="20,20,20,19.5" Grid.RowSpan="1">
+            <TextBlock Grid.Row="2" x:Name="InstallationBox" 
+            FontSize="20" TextWrapping="Wrap"/>
+            <TextBlock x:Name="textblock" Text="Welcome to My Cortana App Sample." Style="{ThemeResource HeaderTextBlockStyle}" TextWrapping="Wrap"/>
+        </StackPanel>
+        <Button x:Name="TextBtn" Content="Text" HorizontalAlignment="Left" Grid.Row="2" Margin="20,4.5,0,20" Height="58" Width="109" Click="TextBtn_Click"/>
+        <Button x:Name="NumberBtn" Content="Number" HorizontalAlignment="Right" Grid.Row="2" Margin="0,4.5,20,20" Height="58" Width="109" Click="NumberBtn_Click"/>
+    </Grid>
+</Page>
